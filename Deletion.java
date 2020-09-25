@@ -1,4 +1,4 @@
-package Array_programs;
+
 import java.util.Arrays;
 import java.util.Scanner;
 public class Deletion {
@@ -57,3 +57,4 @@ public class Deletion {
           
     }
 }
+
