@@ -1,6 +1,6 @@
-package Array_programs;
 
-/*Insert an element K at end in arr[]  */
+
+/*Insert an element K at the end in arr[]  */
 
 import java.util.Arrays;
 import java.util.Scanner;
