@@ -1,5 +1,4 @@
 /*Inserting element in a specific position */
-package Array_programs;
 import java.util.*;
 public class InsertTwo {
     Integer[] insert(Integer[] arr,int n,int pos,int val){
