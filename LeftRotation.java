@@ -2,7 +2,7 @@
 package Array_programs;
 import java.util.Scanner;
 import java.util.Arrays;
-public class Rotation {
+public class LeftRotation {
     int[] rotate(int[] arr,int n,int r){
         int[] temp=new int[r];
         for(int i=0;i<temp.length;i++){
