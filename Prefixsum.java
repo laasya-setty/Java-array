@@ -1,7 +1,7 @@
 /*sum of prefixes
 input : [1,2,3,4,5]
 output:[1,3,6,10,15] */
-package Array_programs;
+
 import java.util.Arrays;
 import java.util.Scanner;
 public class Prefixsum{
